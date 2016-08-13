@@ -155,6 +155,10 @@ It's empty and we put 3 widgets in there (widgets can be added with the magic wa
     * flag order by most viewed
     * show author name
     * max items=5
+* add widget _blog filters_:
+    * select the blog from the dropdown
+    * include authors, tags and archive (year/month filtering)
+    * optionally adapt the titles
 
 then save + publish.
 
