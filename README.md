@@ -159,6 +159,8 @@ It's empty and we put 3 widgets in there (widgets can be added with the magic wa
     * select the blog from the dropdown
     * include authors, tags and archive (year/month filtering)
     * optionally adapt the titles
+* add widget _rss feed_:
+    * select the blog from the dropdown
 
 then save + publish.
 
