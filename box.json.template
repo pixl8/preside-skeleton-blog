@@ -4,6 +4,7 @@
     "author":"${author}",
     "slug":"${site_id}",
     "private":true,
+    "createPackageDirectory":false,
     "dependencies":{
         "presidecms":"10.7.0-beta",
         "preside-ext-elasticsearch":"github:pixl8/preside-ext-elasticsearch#v1.0.10",
