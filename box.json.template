@@ -3,7 +3,6 @@
     "version":"1.0.0",
     "author":"${author}",
     "slug":"${site_id}",
-    "createPackageDirectory" : false,
     "private":true,
     "dependencies":{
         "presidecms":"10.7.0-beta",
