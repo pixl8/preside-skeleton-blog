@@ -1,4 +1,4 @@
-A skeleton PresideCMS application to be used as a starting point for a blog.
+A skeleton Preside application to be used as a starting point for a blog.
 
 ### Important
 
