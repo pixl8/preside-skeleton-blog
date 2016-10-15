@@ -7,7 +7,7 @@ component extends="commandbox.system.BaseCommand" {
 			print.line();
 			print.redLine( "Invalid site ID. Must contain only letters, numbers, - or _.");
 			print.line();
-			siteId   = ask( "Enter a site ID (no spaces or special chars, e.g. amazon): " );
+			siteId = ask( "Enter a site ID (no spaces or special chars, e.g. amazon): " );
 		}
 
 		var adminPath = ask( "Enter an admin URL path (no spaces or special chars, e.g. amazon_admin): " );

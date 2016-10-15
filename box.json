@@ -1,19 +1,19 @@
 {
     "name":"Preside Blog Skeleton",
-    "version":"1.0.7",
+    "version":"1.0.8",
     "author":"Pixl8 Interactive",
     "slug":"preside-skeleton-blog",
     "homepage":"https://github.com/pixl8/preside-skeleton-blog",
     "shortDescription":"A skeleton Preside application to be used as a starting point for a blog.",
     "type":"preside-skeletons",
     "createPackageDirectory":false,
-    "location":"https://github.com/pixl8/preside-skeleton-blog/archive/v1.0.7.zip",
+    "location":"https://github.com/pixl8/preside-skeleton-blog/archive/v1.0.8.zip",
     "repository":{
         "type":"git",
         "url":"https://github.com/pixl8/preside-skeleton-blog.git"
     },
     "dependencies":{
-        "presidecms":"10.7.0-beta",
+        "presidecms":"^10.7.0",
         "preside-ext-elasticsearch":"github:pixl8/preside-ext-elasticsearch#v1.0.10",
         "preside-ext-analytics-import":"stable",
         "preside-ext-blog":"stable"

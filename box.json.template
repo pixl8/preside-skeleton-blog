@@ -6,7 +6,7 @@
     "private":true,
     "createPackageDirectory":false,
     "dependencies":{
-        "presidecms":"10.7.0-beta",
+        "presidecms":"^10.7.0",
         "preside-ext-elasticsearch":"github:pixl8/preside-ext-elasticsearch#v1.0.10",
         "preside-ext-analytics-import":"stable",
         "preside-ext-blog":"stable"
